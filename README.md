@@ -2,11 +2,22 @@
 
 You will now be able to perform your penetration tests faster and easier.
 
-# setup
+# HOW TO DOWNLOAD
 
-**1 - git clone https://github.com/babapiro880/Automatic-sqlmap.git**
-**2 - cd Automatic-sqlmap.git**
-**3 - bash otosql.sh**
+```
+git clone https://github.com/babapiro880/Automatic-sqlmap.git
+```
+```
+cd Automatic-sqlmap
+```
+```
+chmod +x otosql.sh
+```
+```
+bash otosql.sh
+```
+
+NOTE: JUST USE FOR ETHICAL ISSUES
 
 
 
